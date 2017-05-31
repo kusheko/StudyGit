@@ -1,2 +1,0 @@
-# StudyGit
-StudyGit
