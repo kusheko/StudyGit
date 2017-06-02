@@ -7,6 +7,7 @@
 <body>
 <h1> Hello World </h1>
 <h1> Hello eveybody</h1>
+<footer> <h2> hello </h2> </footer>
 </body>
 
 </html>
