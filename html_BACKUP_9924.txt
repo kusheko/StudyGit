@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<meta charset="utf-8"/>
+	
+</head>
+<body>
+<<<<<<< .merge_file_a00480
+<h1> Hello World; </h1>
+<h1> Hello eveybody;</h1>
+=======
+<h1> Hello World </h1>
+<h1> Hello eveybody</h1>
+<footer> <h2> hello </h2> </footer>
+>>>>>>> .merge_file_a10184
+</body>
+
+</html>
